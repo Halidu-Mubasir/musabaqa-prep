@@ -1,0 +1,6 @@
+{
+  "name": "Musabaqa Prep",
+  "description": "An application to help users practice for Quran memorization competitions by generating random trial questions based on their chosen memorization category.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
